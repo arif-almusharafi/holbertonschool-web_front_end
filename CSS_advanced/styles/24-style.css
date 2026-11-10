@@ -581,5 +581,5 @@ ul.row{
 .card-services a:hover{
     color: var(--color-white);
     background: var(--color-primary);
-    text-decoration: underline;
+    text-decoration:none;
 }
